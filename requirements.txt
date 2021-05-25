@@ -1,9 +1,11 @@
 future
+LOGGER
 emoji
 jikanpy
 beautifulsoup4
 bs4
 requests==2.20.0
+lyricsgenius
 sqlalchemy
 python-telegram-bot==12.0.0
 psycopg2-binary
@@ -32,6 +34,7 @@ mtranslate
 fontTools
 nekos.py
 redis
+envparse
 pathlib
 pySmartDL 
 validators
@@ -40,3 +43,6 @@ cachetools
 pybase64
 html2text
 bing_image_downloader
+bs4
+Pbot
+TgCrypto
