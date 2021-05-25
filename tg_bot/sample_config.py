@@ -23,7 +23,7 @@ class Config(object):
     NO_LOAD = ['translation', 'rss', 'sed']
     WEBHOOK = False
     URL = None
-
+    REDIS_URL = ''
     # OPTIONAL
     DEV_USERS = []
     SUDO_USERS = []  # List of id's (not usernames) for users which have sudo access to the bot.
